@@ -1,0 +1,17 @@
+.img{
+    border-radius: 50%;
+    border: white 5px solid;
+    box-shadow: rgba(0, 0, 0, 0.671) -3px 0px 20px 2px;
+}
+.titel{
+    background-image: linear-gradient(to right, #2F80ED, #56CCF2);
+}
+p{
+    font-size: large;
+    font-weight: bold;
+}
+.more{
+    font-size: x-large;
+    font-weight: bold;
+    margin: 0;
+}
